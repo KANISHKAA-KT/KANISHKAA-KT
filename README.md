@@ -32,13 +32,6 @@
 ChatGPT • Gemini • Blackbox AI • Bolt.new • Lovable • Perplexity • GitHub Copilot
 
 ---
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=KANISHKAA-KT&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KANISHKAA-KT&layout=compact&theme=tokyonight" />
-
-<img src="https://streak-stats.demolab.com?user=KANISHKAA-KT&theme=tokyonight" />
 
 
 
