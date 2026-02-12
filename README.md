@@ -1,16 +1,37 @@
-## Hi there 👋
+## 👋 Hi, I'm Kanishkaa K T
 
-<!--
-**KANISHKAA-KT/KANISHKAA-KT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials
+<p>
+  <a href="https://www.linkedin.com/in/kanishkaa-k-t-432b57303/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/KANISHKAA-KT">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+</p>
+
+---
+
+## 💻 I Code In
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,ts,react,mysql,mongodb" />
+
+---
+
+## 🛠️ IDE and Tools I Use
+<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,docker,firebase,postman" />
+
+---
+
+## 🤖 AI Tools I Use
+<img src="https://skillicons.dev/icons?i=openai" />
+
+---
+
+## 📊 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
