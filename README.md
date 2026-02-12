@@ -27,7 +27,6 @@
 ---
 
 ## 🤖 AI Tools I Use
-<img src="https://skillicons.dev/icons?i=openai,github,google" />
 
 ChatGPT • Gemini • Blackbox AI • Bolt.new • Lovable • Perplexity • GitHub Copilot
 
