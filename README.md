@@ -27,18 +27,14 @@
 ---
 
 ## 🤖 AI Tools I Use
-<img src="https://skillicons.dev/icons?i=openai,github,notion,figma,canva" />
+<img src="https://skillicons.dev/icons?i=openai,github,google" />
 
-- ChatGPT – learning, debugging, explanations  
-- GitHub Copilot – code suggestions  
-- Gemini / Perplexity – research & quick answers  
-- Canva AI – posters, presentations  
-- Notion AI – notes & documentation
+ChatGPT • Gemini • Blackbox AI • Bolt.new • Lovable • Perplexity • GitHub Copilot
+
 
 
 ---
 
 ## 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KANISHKAA-KT&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
