@@ -22,12 +22,19 @@
 ---
 
 ## 🛠️ IDE and Tools I Use
-<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,docker,firebase,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,firebase" />
 
 ---
 
 ## 🤖 AI Tools I Use
-<img src="https://skillicons.dev/icons?i=openai" />
+<img src="https://skillicons.dev/icons?i=openai,github,notion,figma,canva" />
+
+- ChatGPT – learning, debugging, explanations  
+- GitHub Copilot – code suggestions  
+- Gemini / Perplexity – research & quick answers  
+- Canva AI – posters, presentations  
+- Notion AI – notes & documentation
+
 
 ---
 
