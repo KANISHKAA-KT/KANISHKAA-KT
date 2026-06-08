@@ -34,7 +34,7 @@ class Kanishkaa:
     roles       = [ "Software Developer", "Web Developer"]
     interests   = ["Building Web Apps", "Problem Solving", "ML Projects"]
     currently   = "Sharpening DSA skills & building real-world projects"
-    fun_fact    = "I published an IEEE paper in my 1st year of college
+    fun_fact    = "I published an IEEE paper in my 1st year of college"
 "
 ```
 
